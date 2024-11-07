@@ -1,0 +1,7 @@
+Apple_300_10,50_each
+Banana_301_15_each
+Orange_302_20_each
+Kiwi_303_9,25_per kg
+Milk_304_7_each
+Chocolate_305_14_each
+Butter_306_13_each
